@@ -1,0 +1,4 @@
+train: D:/Dataset/images/train
+val: D:/Dataset/images/val
+nc: 1 
+names: ["dog_heart"]  # Replace with actual class name
